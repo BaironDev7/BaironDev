@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BaironDev Portfolio
 
-## Getting Started
+¡Bienvenido a mi portafolio de desarrollador web! Este proyecto fue creado utilizando **Next.js** con **TypeScript** y **Tailwind CSS** para mostrar mi experiencia, proyectos y habilidades de una forma moderna, rápida y responsiva.
 
-First, run the development server:
+## Descripción
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este portafolio es una plataforma donde puedes aprender más sobre mí, explorar mis proyectos destacados, y acceder a mis datos de contacto. El diseño está optimizado para brindar una experiencia de usuario agradable tanto en dispositivos de escritorio como móviles.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Características Principales
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Responsive Design**: El sitio es completamente adaptable a diferentes tamaños de pantalla gracias al uso de Tailwind CSS.
+- **Secciones Interactivas**: Navegación fluida entre secciones y animaciones suaves que mejoran la interacción del usuario.
+- **Componentes de Next.js**: Utilización de componentes reutilizables y `props` para estructurar de manera eficiente el código.
+- **Tailwind CSS**: Estilización rápida y flexible con clases utilitarias.
+- **Vercel Deployment**: Desplegado y alojado en Vercel para un rendimiento óptimo y tiempos de carga rápidos.
+- **Archivos y assets** organizados para una fácil gestión.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tecnologías Utilizadas
 
-## Learn More
+- **Next.js**: Framework de React para renderizado en el lado del servidor y generación de sitios estáticos.
+- **TypeScript**: Uso de tipado estático para un desarrollo más seguro y escalable.
+- **Tailwind CSS**: Framework de CSS para un diseño responsivo y estilización rápida.
+- **React Icons**: Librería para íconos de calidad que mejoran la visualización.
+- **Vercel**: Plataforma de despliegue que garantiza alta disponibilidad y rapidez.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**¡¡GRACIAS!!** Por visitar mi proyecto, espero te guste.
