@@ -1,3 +1,5 @@
+"use client";
+
 import AboutMe from "./components/Aboutme";
 import Contact from "./components/Contact";
 import Experience from "./components/Experience";
@@ -7,6 +9,7 @@ import Instagram from "./components/Icons/Instagram";
 import LinkedIn from "./components/Icons/Linkedin";
 import XformerlyTwitter from "./components/Icons/X";
 import Projects from "./components/Project";
+import ScrollToTopButton from "./components/Scrolltotop";
 
 export default function Home() {
   return (
@@ -29,6 +32,7 @@ export default function Home() {
     <Experience />
     <Projects />
     <Contact />
+    <ScrollToTopButton />
     <Footer />
     </>
   );
