@@ -27,6 +27,8 @@ const Projects: React.FC = () => {
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
                 <div className="flex items-center rounded-full bg-yellow-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-yellow-300">Javascript</div>
                 <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-sky-300">Netflify</div>
+                <div className="flex items-center rounded-full bg-green-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-green-300">Node.Js</div>
+                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
             </div>
           </div>
         </div>
@@ -47,7 +49,9 @@ const Projects: React.FC = () => {
                 <div className="flex items-center rounded-full bg-orange-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-orange-300">Vite</div>
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
                 <div className="flex items-center rounded-full bg-yellow-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-yellow-300">Javascript</div>
-                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">API</div>
+                <div className="flex items-center rounded-full bg-green-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-green-300">Node.Js</div>
+                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
+                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">Git</div>
                 <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-sky-300">Netflify</div>
             </div>
           </div>
@@ -66,9 +70,11 @@ const Projects: React.FC = () => {
             <p className="text-base text-secondary">Una aplicación web simple construida con Next.js y Tailwind CSS que muestra una lista de productos obtenidos de la Fake Store API.</p>
             <div className="flex flex-wrap mt-5 gap-3">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-teal-300">React</div>
+                <div className="flex items-center rounded-full bg-green-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-green-300">Node.Js</div>
                 <div className="flex items-center rounded-full bg-black/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">Next.Js</div>
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
                 <div className="flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">TypeScript</div>
+                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
                 <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">API</div>
                 <div className="flex items-center rounded-full bg-black/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">Vercel</div>
             </div>
