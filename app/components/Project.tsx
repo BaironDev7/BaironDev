@@ -35,7 +35,7 @@ const Projects: React.FC = () => {
 
         <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-8">
           <div className="flex flex-col">
-            <Image alt='Tesla-Landing' src={"/images/Baru-pelis.png"} width={300} height={150} className="rounded-xl" />
+            <Image alt='Tesla-Landing' src={"/images/Baru-pelis.jpg"} width={300} height={150} className="rounded-xl" />
             <div className="flex justify-center mt-5">
               <a href="https://github.com/BaironDev7/Baru-Pelis" target="_blank"><Github className="text-secondary mr-10 hover:text-primary transition duration-500 w-6 h-6" /></a>
               <a href="https://baru-pelis.netlify.app/" target="_blank"><Link /></a>
@@ -59,7 +59,7 @@ const Projects: React.FC = () => {
 
         <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-8">
           <div className="flex flex-col">
-            <Image alt='Tesla-Landing' src={"/images/Baru-store.png"} width={300} height={150} className="rounded-xl" />
+            <Image alt='Tesla-Landing' src={"/images/Baru-store.jpg"} width={300} height={150} className="rounded-xl" />
             <div className="flex justify-center mt-5">
               <a href="https://github.com/BaironDev7/Baru-Store" target="_blank"><Github className="text-secondary mr-10 hover:text-primary transition duration-500 w-6 h-6" /></a>
               <a href="https://baru-store.vercel.app/" target="_blank"><Link /></a>
