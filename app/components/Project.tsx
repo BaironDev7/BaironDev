@@ -12,23 +12,23 @@ const Projects: React.FC = () => {
 
         <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-8">
           <div className="flex flex-col">
-            <Image alt='Tesla-Landing' src={"/images/Tesla-landing.png"} width={300} height={150} className="rounded-xl" />
+            <Image alt='Tesla-Landing' src={"/images/Baru-passgen.jpg"} width={300} height={150} className="rounded-xl" />
             <div className="flex justify-center mt-5">
-              <a href="https://github.com/BaironDev7/Teslaweb-clon2023-V1" target="_blank"><Github className="text-secondary mr-10 hover:text-primary transition duration-500 w-6 h-6" /></a>
-              <a href="https://tesla-landing-clon-v23.netlify.app/" target="_blank"><Link /></a>
+              <a href="https://github.com/BaironDev7/Baru-PassGen" target="_blank"><Github className="text-secondary mr-10 hover:text-primary transition duration-500 w-6 h-6" /></a>
+              <a href="https://baru-passgen.vercel.app/" target="_blank"><Link /></a>
             </div>
           </div>
           <div className="w-full md:w-1/2">
-            <h3 className="text-2xl text-primary font-medium mb-2">Landing Clon de Tesla</h3>
-            <p className="text-base text-secondary">Este proyecto es un clon de la landing oficial de Tesla desarrollado en React con Vite y estilizado con Tailwind CSS. Además, cuenta con un diseño responsivo para adaptarse a dispositivos móviles y tabletas.</p>
+            <h3 className="text-2xl text-primary font-medium mb-2">Baru PassGen</h3>
+            <p className="text-base text-secondary">Generador de Contraseñas que permite a los usuarios crear contraseñas seguras personalizadas con opciones como longitud variable, incluyendo números y símbolos.</p>
             <div className="flex flex-wrap mt-5 gap-3">
                 <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-teal-300">React</div>
-                <div className="flex items-center rounded-full bg-orange-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-orange-300">Vite</div>
+                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">Git</div>
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
-                <div className="flex items-center rounded-full bg-yellow-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-yellow-300">Javascript</div>
-                <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-sky-300">Netflify</div>
+                <div className="flex items-center rounded-full bg-orange-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-orange-300">Shadcn</div>
+                <div className="flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">TypeScript</div>
                 <div className="flex items-center rounded-full bg-green-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-green-300">Node.Js</div>
-                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
+                <div className="flex items-center rounded-full bg-black/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">Vercel</div>
             </div>
           </div>
         </div>
@@ -50,9 +50,9 @@ const Projects: React.FC = () => {
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
                 <div className="flex items-center rounded-full bg-yellow-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-yellow-300">Javascript</div>
                 <div className="flex items-center rounded-full bg-green-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-green-300">Node.Js</div>
-                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
                 <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">Git</div>
                 <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-sky-300">Netflify</div>
+                <div className="flex items-center rounded-full bg-lime-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-lime-300">API</div>
             </div>
           </div>
         </div>
@@ -74,9 +74,9 @@ const Projects: React.FC = () => {
                 <div className="flex items-center rounded-full bg-black/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">Next.Js</div>
                 <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">TailwindCss</div>
                 <div className="flex items-center rounded-full bg-blue-500/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">TypeScript</div>
-                <div className="flex items-center rounded-full bg-cyan-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-cyan-300">Git</div>
-                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">API</div>
+                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300">Git</div>
                 <div className="flex items-center rounded-full bg-black/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-white">Vercel</div>
+                <div className="flex items-center rounded-full bg-lime-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-lime-300">API</div>
             </div>
           </div>
         </div>
