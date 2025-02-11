@@ -6,8 +6,41 @@ const Experience: React.FC = () => {
       <div className="lg:max-w-4xl sm:max-w-lg mx-auto">
         <h2 className="text-3xl text-primary font-semibold mb-4">Experiencia</h2>
         <div className="space-y-6">
-          <div>
+        <div>
             <h2 className="text-xl text-primary font-bold">Experiencia Profesional:</h2>
+            <h3 className="text-lg text-primary font-medium">IT, AI and Digital Support - Ingenious Solutions Factory</h3>
+            <p className="text-secondary text-base">Febrero 2025 - Actualidad</p>
+            <p className="mt-2 text-base flex text-secondary">
+                <span className="h-1 w-8 m-3 rounded-2xl bg-primary"></span>
+                Programación de sitios web y bases de datos, desarrollo de aplicaciones y creación de materiales
+                de formación para miembros del equipo y clientes.
+            </p>
+            <p className="mt-2 text-base flex text-secondary">
+                <span className="h-1 w-7 m-3 rounded-2xl bg-primary"></span>
+                Apoyo en proyectos de diseño gráfico, proyectos audiovisuales y creación de contenido para redes
+                sociales de la compañía.
+            </p>
+            <p className="mt-2 text-base flex text-secondary">
+                <span className="h-1 w-7 m-3 rounded-2xl bg-primary"></span>
+                Realización de cualquier otra tarea solicitada por el Fundador o su supervisor directo, según las
+                necesidades de la empresa.
+            </p>
+            <p className="mt-2 text-base flex text-secondary">
+                <span className="h-1 w-8 m-3 rounded-2xl bg-primary"></span>
+                Asistencia a reuniones con clientes y otros equipos, garantizando una comunicación efectiva y
+                alineación con los objetivos de la empresa.
+            </p>
+            <div className="flex flex-wrap lg:ml-10 mt-5 gap-3">
+                <div className="flex items-center rounded-full bg-blue-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-blue-300">WordPress</div>
+                <div className="flex items-center rounded-full bg-sky-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-sky-300">PHP</div>
+                <div className="flex items-center rounded-full bg-orange-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-orange-300">HTML</div>
+                <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-teal-300 ">CSS</div>
+                <div className="flex items-center rounded-full bg-yellow-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-yellow-300 ">JavaScript</div>
+                <div className="flex items-center rounded-full bg-slate-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-slate-300 ">Inteligencia Artificial</div>
+                <div className="flex items-center rounded-full bg-red-400/10 px-3 py-1 text-[10px] sm:text-xs font-medium leading-5 text-red-300 ">Diseño</div>
+            </div>
+          </div>
+          <div>
             <h3 className="text-lg text-primary font-medium">Desarrollador de Sofware - Accenture</h3>
             <p className="text-secondary text-base">Febrero 2024 - Agosto 2024</p>
             <p className="mt-2 text-base flex text-secondary">
